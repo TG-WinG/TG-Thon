@@ -35,6 +35,6 @@ T.G.WinG은 동아리 부원을 위한 참여의 장을 만들려고 합니다.
 
 
 ### Evaluation Panel
-| 컨택중 | 컨택중 | [<img src="https://avatars.githubusercontent.com/u/20378368?v=4" width="100">](https://github.com/korkeep) | [<img src="https://avatars.githubusercontent.com/u/78679830?v=4" width="100">](https://github.com/woosung1223) | [<img src="https://avatars.githubusercontent.com/u/65337423?v=4" width="100">](https://github.com/dbwp031) |
-| :---: | :---: | :---: | :---: | :---: |
-| 교수님 | 졸업생 | [김성수](https://github.com/korkeep) | [최우성](https://github.com/woosung1223) | [이유제](https://github.com/dbwp031) |
+| [<img src="https://avatars.githubusercontent.com/u/16697306?v=4" width="90">](https://github.com/sungjunyoung) | [<img src="https://avatars.githubusercontent.com/u/19185689?v=4" width="90">](https://github.com/Crazy0416) | 컨택완료 | [<img src="https://avatars.githubusercontent.com/u/20368762?v=4" width="90">](https://github.com/khujay15) | [<img src="https://avatars.githubusercontent.com/u/20378368?v=4" width="90">](https://github.com/korkeep) | [<img src="https://avatars.githubusercontent.com/u/78679830?v=4" width="90">](https://github.com/woosung1223) | [<img src="https://avatars.githubusercontent.com/u/65337423?v=4" width="90">](https://github.com/dbwp031) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [12 성준영](https://github.com/sungjunyoung) | [13 김민호](https://github.com/Crazy0416) | 14 김찬우 | [15 장재혁](https://github.com/khujay15) | [16 김성수](https://github.com/korkeep) | [18 최우성](https://github.com/woosung1223) | [19 이유제](https://github.com/dbwp031) |
