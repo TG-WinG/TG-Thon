@@ -35,6 +35,6 @@ T.G.WinG은 동아리 부원을 위한 참여의 장을 만들려고 합니다.
 
 
 ### Evaluation Panel
-| 컨택중 | 컨택중 | [<img src="https://avatars.githubusercontent.com/u/20378368?v=4" width="120">](https://github.com/korkeep) |
-| :---: | :---: | :---: |
-| 배성호 교수님 | 졸업생 | [김성수](https://github.com/korkeep) |
+| 컨택중 | 컨택중 | [<img src="https://avatars.githubusercontent.com/u/20378368?v=4" width="100">](https://github.com/korkeep) | [<img src="https://avatars.githubusercontent.com/u/78679830?v=4" width="100">](https://github.com/woosung1223) | [<img src="https://avatars.githubusercontent.com/u/65337423?v=4" width="100">](https://github.com/dbwp031) |
+| :---: | :---: | :---: | :---: | :---: |
+| 교수님 | 졸업생 | [김성수](https://github.com/korkeep) | [최우성](https://github.com/woosung1223) | [이유제](https://github.com/dbwp031) |
